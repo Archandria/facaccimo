@@ -3,6 +3,84 @@
   "description": "",
   "artist": "",
   "author": "dragonjek",
-  "cover": "https://drive.google.com/file/d/1kBh5ah7ENTqLsy9pljwbNyDNRu3l-AUA/view",
-  "chapters": {}
+  "cover": "https://drive.google.com/uc?export=view&id=1kBh5ah7ENTqLsy9pljwbNyDNRu3l-AUA",
+  "chapters": {
+    "0": {
+      "title": "Introduction",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1kBh5ah7ENTqLsy9pljwbNyDNRu3l-AUA"
+        ]
+      }
+    },
+    "1": {
+      "title": "Races",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1mPep6XzV2OkK9GsIMlMtCM8eibdYjgMv",
+          "https://drive.google.com/uc?export=view&id=1g6x8QyvJqonP6JrYBtbA4aTT4KVAKfKa",
+          "https://drive.google.com/uc?export=view&id=1qVvAhuGfHRT0JxIPKErTS19YNtJI90rq",
+          "https://drive.google.com/uc?export=view&id=1zZ-FOKqM8NOyi3qN6PPcy5ah0twwced5",
+          "https://drive.google.com/uc?export=view&id=1XFbpGV0RP14gL04CCgVNrWj4C2nMJr8C",
+          "https://drive.google.com/uc?export=view&id=1m4TQBBZp3Xe8ADgMIJNrPXkr2Vj2ILQi"
+        ]
+      }
+    },
+    "2": {
+      "title": "Racial Modifiers",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1n9uaySOk6sfNp4LIYBjsG1E1uBazAXG1",
+          "https://drive.google.com/uc?export=view&id=1mc0pTkhb9j7Blgk6n-VA7O6OpOCYf91A",
+          "https://drive.google.com/uc?export=view&id=1UKUdDhBKP4F9TrpbD-VCF6dW-hFReoFJ",
+          "https://drive.google.com/uc?export=view&id=1sMMmHq8nFTNcIQ3OvGbhxYZgLzGXsaVX",
+          "https://drive.google.com/uc?export=view&id=1sTtbHkAHiNs09WDf3OG-Jnjbz9jrcO2B"
+        ]
+      }
+    },
+    "3": {
+      "title": "Body Building",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1Uxw8c5X9C-2KT14LHoBp8fN7iFdLT5Y9",
+          "https://drive.google.com/uc?export=view&id=1qkhoLwBqaSiwgt7SBYw-J72taIPcBU1b"
+        ]
+      }
+    },
+    "4": {
+      "title": "Drawbacks of Love and Lust",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Drawbacks": [
+          "https://drive.google.com/uc?export=view&id=1aBfUQR3w6GBl2dxTZI6smdmWgHkybBjW",
+          "https://drive.google.com/uc?export=view&id=1Ja1B7-wpgH8O5g3C4nxfAe3eNK6g3Rne",
+          "https://drive.google.com/uc?export=view&id=13N733iyAiU9WgIEb3B8l2KTHZIDt__Of"
+        ]
+      }
+    },
+    "5": {
+      "title": "Drawbacks of Fate and Flaws",
+      "volume": "",
+      "last_updated": "1666375200",
+      "groups": {
+        "Drawbacks": [
+          "https://drive.google.com/uc?export=view&id=1gTlqD7pJBrKLSTMrNUqVa9fGde7l9smZ",
+          "https://drive.google.com/uc?export=view&id=16leU91JQAejw9rbqTpFPQmIZDzOsEpfi",
+          "https://drive.google.com/uc?export=view&id=1IkYZN8V6fbTHpqZayyWghClbZW6NxxHo",
+          "https://drive.google.com/uc?export=view&id=1w1iMBEF-hXoTrsRbUf00E2_l6hGY-7dk",
+          "https://drive.google.com/uc?export=view&id=12dn92jZCLgvXLh-8uQ9jfP6suRj5HCs0",
+          "https://drive.google.com/uc?export=view&id=1tt5URUz37BcaYQXj-1BDQUgKawkqiYkv"
+        ]
+      }
+    }
+  }
 }
