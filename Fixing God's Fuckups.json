@@ -5,22 +5,13 @@
   "author": "dragonjek",
   "cover": "https://drive.google.com/uc?export=view&id=1kBh5ah7ENTqLsy9pljwbNyDNRu3l-AUA",
   "chapters": {
-    "0": {
-      "title": "Introduction",
-      "volume": "0",
-      "last_updated": "1658426400",
-      "groups": {
-        "": [
-          "https://drive.google.com/uc?export=view&id=1kBh5ah7ENTqLsy9pljwbNyDNRu3l-AUA"
-        ]
-      }
-    },
-    "1": {
-      "title": "Races",
+    "1.1": {
+      "title": "Intro & Races",
       "volume": "",
       "last_updated": "1658426400",
       "groups": {
-        "": [
+        "Race": [
+          "https://drive.google.com/uc?export=view&id=1kBh5ah7ENTqLsy9pljwbNyDNRu3l-AUA",
           "https://drive.google.com/uc?export=view&id=1mPep6XzV2OkK9GsIMlMtCM8eibdYjgMv",
           "https://drive.google.com/uc?export=view&id=1g6x8QyvJqonP6JrYBtbA4aTT4KVAKfKa",
           "https://drive.google.com/uc?export=view&id=1qVvAhuGfHRT0JxIPKErTS19YNtJI90rq",
@@ -30,12 +21,12 @@
         ]
       }
     },
-    "2": {
+    "1.2": {
       "title": "Racial Modifiers",
       "volume": "",
       "last_updated": "1658426400",
       "groups": {
-        "": [
+        "Race": [
           "https://drive.google.com/uc?export=view&id=1n9uaySOk6sfNp4LIYBjsG1E1uBazAXG1",
           "https://drive.google.com/uc?export=view&id=1mc0pTkhb9j7Blgk6n-VA7O6OpOCYf91A",
           "https://drive.google.com/uc?export=view&id=1UKUdDhBKP4F9TrpbD-VCF6dW-hFReoFJ",
@@ -44,41 +35,200 @@
         ]
       }
     },
-    "3": {
+    "2.1": {
       "title": "Body Building",
       "volume": "",
       "last_updated": "1658426400",
       "groups": {
-        "": [
+        "Body Building": [
           "https://drive.google.com/uc?export=view&id=1Uxw8c5X9C-2KT14LHoBp8fN7iFdLT5Y9",
           "https://drive.google.com/uc?export=view&id=1qkhoLwBqaSiwgt7SBYw-J72taIPcBU1b"
         ]
       }
     },
-    "4": {
-      "title": "Drawbacks of Love and Lust",
+    "3.1": {
+      "title": "Drawbacks [of Love & Lust]",
       "volume": "",
       "last_updated": "1658426400",
       "groups": {
-        "Drawbacks": [
+        "Individual Modifiers": [
           "https://drive.google.com/uc?export=view&id=1aBfUQR3w6GBl2dxTZI6smdmWgHkybBjW",
           "https://drive.google.com/uc?export=view&id=1Ja1B7-wpgH8O5g3C4nxfAe3eNK6g3Rne",
           "https://drive.google.com/uc?export=view&id=13N733iyAiU9WgIEb3B8l2KTHZIDt__Of"
         ]
       }
     },
-    "5": {
-      "title": "Drawbacks of Fate and Flaws",
+    "3.2": {
+      "title": "Drawbacks [of Fate & Flaws]",
       "volume": "",
-      "last_updated": "1666375200",
+      "last_updated": "1658426400",
       "groups": {
-        "Drawbacks": [
+        "Individual Modifiers": [
           "https://drive.google.com/uc?export=view&id=1gTlqD7pJBrKLSTMrNUqVa9fGde7l9smZ",
           "https://drive.google.com/uc?export=view&id=16leU91JQAejw9rbqTpFPQmIZDzOsEpfi",
           "https://drive.google.com/uc?export=view&id=1IkYZN8V6fbTHpqZayyWghClbZW6NxxHo",
           "https://drive.google.com/uc?export=view&id=1w1iMBEF-hXoTrsRbUf00E2_l6hGY-7dk",
           "https://drive.google.com/uc?export=view&id=12dn92jZCLgvXLh-8uQ9jfP6suRj5HCs0",
           "https://drive.google.com/uc?export=view&id=1tt5URUz37BcaYQXj-1BDQUgKawkqiYkv"
+        ]
+      }
+    },
+    "4.1": {
+      "title": "Perks [of Sex & Sociality]",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Individual Modifiers": [
+          "https://drive.google.com/uc?export=view&id=1mU4V9Mkn93C7Ep9ADe5rYPHWhDYl1CjN",
+          "https://drive.google.com/uc?export=view&id=1MzY5m5YPw4-QTgS4ht-NHKMRM7_1MKKA",
+          "https://drive.google.com/uc?export=view&id=19OiVJL8sJHdRXmwQgmXPFfeE-_DzEBX8"
+        ]
+      }
+    },
+    "4.2": {
+      "title": "Perks [of Promise & Potential]",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Individual Modifiers": [
+          "https://drive.google.com/uc?export=view&id=1k2Fpnqt0I8aEWtlk-bvL-65FOT8NS7Y-",
+          "https://drive.google.com/uc?export=view&id=1jcjG7OczpL8mc36GOVRn9it1DclrgeLS",
+          "https://drive.google.com/uc?export=view&id=1AD0yrce_3aLGNQX1azhTR1cr1-vGy4o2",
+          "https://drive.google.com/uc?export=view&id=18XM8P9veSAkBk_Sql3k5gzJE-AUrMyie",
+          "https://drive.google.com/uc?export=view&id=1GH6Ot75O_dNnbsnmXGuJoQKh8PISJOFI"
+        ]
+      }
+    },
+    "5.1": {
+      "title": "Fundamentals & Physical Skills",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Abilities": [
+          "https://drive.google.com/uc?export=view&id=1qAUfXtvm6j5w1PZyEdWv_u--5_z3MMQ_",
+          "https://drive.google.com/uc?export=view&id=1W9dw5qhEpKFDYudcXvGyVVfShJNNXGSA",
+          "https://drive.google.com/uc?export=view&id=1phO0hmJy9x9-d2JieY1Q_t1xS8_EE5SC",
+          "https://drive.google.com/uc?export=view&id=12hkoKZQNmq8Dq7lTNBf9DBJ3TIRh5Git",
+          "https://drive.google.com/uc?export=view&id=1MIFQm6G6ubI52NWXIDW4IkgGnAKlWNGc"
+        ]
+      }
+    },
+    "5.2": {
+      "title": "Schools & Magic Skills",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Abilities": [
+          "https://drive.google.com/uc?export=view&id=1ocD3cMewOXYJy8NkmyVUrhG6Z8A3pdLN",
+          "https://drive.google.com/uc?export=view&id=1hxvgixVZpqdrf_a52xinjrQAtLeTGvv-",
+          "https://drive.google.com/uc?export=view&id=1hcHW1X1kP6uXEuUUTfNXMQa78aE_xWgX",
+          "https://drive.google.com/uc?export=view&id=1n_319-fwsCm11XLbeTQDMP34_g51MhxC",
+          "https://drive.google.com/uc?export=view&id=1zf10fQ0kwEHC9GMstIwLv4AVpDrb2-Xy"
+        ]
+      }
+    },
+    "6.1": {
+      "title": "Arrival & Worlds",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "World Options": [
+          "https://drive.google.com/uc?export=view&id=1L4THDlRj00D8D7fmuy-KbhMzzelmJA80",
+          "https://drive.google.com/uc?export=view&id=1O4U53M5mu3rwliASTqPYbvSqr3s8VImP",
+          "https://drive.google.com/uc?export=view&id=1ixW0ksHkBFYkP5FrgQjAlQwTTe4qy0R0",
+          "https://drive.google.com/uc?export=view&id=12XSSu25htZOESe__UVgeSqwnLWXje8PT",
+          "https://drive.google.com/uc?export=view&id=15FA53uJJPavLKdelrX9UUOD-vVcEnF2w"
+        ]
+      }
+    },
+    "6.2": {
+      "title": "World Modifiers",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "World Options": [
+          "https://drive.google.com/uc?export=view&id=1MSZWZe0eQ9r1liFNhKVtUT26kLB0qDM1",
+          "https://drive.google.com/uc?export=view&id=1FxYvfGKYpSm8xeEy-KINHeFqo-pX_Sk8",
+          "https://drive.google.com/uc?export=view&id=1fZS1OYIUl3YkdY2pQzTIM1QNF03nHPHM",
+          "https://drive.google.com/uc?export=view&id=1rrhfAteeDXbF-3FJ3POrOP85pciHiQdX"
+        ]
+      }
+    },
+    "7.1": {
+      "title": "Equipment (Tools & Vehicles)",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Paraphernalia": [
+          "https://drive.google.com/uc?export=view&id=1BZQITeUcVoTTYwvl3AidAL2qTwjRzSbp",
+          "https://drive.google.com/uc?export=view&id=1epToPJVb_4WlG4vSW_oOvCd-4cVi1C6K",
+          "https://drive.google.com/uc?export=view&id=13HLXhDTR1iQkRGhRTi-acm03qp3YblYB"
+        ]
+      }
+    },
+    "7.2": {
+      "title": "Equipment (Weapons)",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Paraphernalia": [
+          "https://drive.google.com/uc?export=view&id=1mg61eE7JegvbDXGHaA0OyhgnrLVbXg9c",
+          "https://drive.google.com/uc?export=view&id=12Bv_qVPbvbZJNFKPgRqTFMHx-siZYjt5",
+          "https://drive.google.com/uc?export=view&id=1rhNLJ5fnmiNrb444c_Yy1EuHpr7ghpF-"
+        ]
+      }
+    },
+    "7.3": {
+      "title": "Equipment (Armor & Garments)",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Paraphernalia": [
+          "https://drive.google.com/uc?export=view&id=1m2lWrMuaYfowJKVoFoVmcHhBhbuzW7eW"
+        ]
+      }
+    },
+    "8.1": {
+      "title": "Companions",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Paraphernalia": [
+          "https://drive.google.com/uc?export=view&id=1ExvxKXCPmvend-c9QavPLv46U4XQmmH4",
+          "https://drive.google.com/uc?export=view&id=1h1Vqm0pwP85O4LsiNGS1RKxWM_ZFRn70",
+          "https://drive.google.com/uc?export=view&id=1N4jk45B7zb0Exi22TEx4ZZ7QIngy_63y",
+          "https://drive.google.com/uc?export=view&id=1LvTc8I1knuNS-VTUo9LSb4KKM5ECASK1",
+          "https://drive.google.com/uc?export=view&id=1N57zd3kWsxwsHiqS9MkQqTJs9VhWFj24",
+          "https://drive.google.com/uc?export=view&id=1L0Wg1Cey75i7bYmkqBvcJ_-7FYXkpKWq",
+          "https://drive.google.com/uc?export=view&id=1GPMZL0P0_ZpXwxukCK7Os9YfB5_wTPaB",
+          "https://drive.google.com/uc?export=view&id=10hlok07eC_-7GCPjnQ7RR8tuWxJkzlnR",
+          "https://drive.google.com/uc?export=view&id=1sDe5r55tKYMz_SlxbxisxoFYiRz_rx8Y",
+          "https://drive.google.com/uc?export=view&id=1FRxZxZgrY9Gf_ckSfhofdYbFnUmHjGAi",
+          "https://drive.google.com/uc?export=view&id=1mnPYOOIlSK5_AFZFFvkpsAFans0Ns0kf"
+        ]
+      }
+    },
+    "9.1": {
+      "title": "Divine Patrons",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Gods & Goddesses": [
+          "https://drive.google.com/uc?export=view&id=1wsl-UoyKADXUCVCa8a5X8h2bsUX6E8aG",
+          "https://drive.google.com/uc?export=view&id=1dW0Mu1qJr2B_tL9KwJoUYWkqNe_6U7i4",
+          "https://drive.google.com/uc?export=view&id=1HT12tJa1oY4uhZ8-3UPJBnjieYrj-4mZ",
+          "https://drive.google.com/uc?export=view&id=12_4KNl-eBmcmuxCFujrdnpZnOudt0OEs"
+        ]
+      }
+    },
+    "9.2": {
+      "title": "Boons",
+      "volume": "",
+      "last_updated": "1658426400",
+      "groups": {
+        "Gods & Goddesses": [
+          "https://drive.google.com/uc?export=view&id=1KTw8CC1o9g7a4U-gmuyuYFgq7XTTG5mw",
+          "https://drive.google.com/uc?export=view&id=1h2h8yAffOHwXw53bgg_LYY63QnPmP5bj"
         ]
       }
     }
