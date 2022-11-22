@@ -1,0 +1,213 @@
+{
+  "title": "Your New Life in the Tentacle Realm (v.7)",
+  "description": "",
+  "artist": "",
+  "author": "Apotheosis",
+  "cover": "https://cdn.imgchest.com/files/myd5clerr4b.jpg",
+  "chapters": {
+    "1.0": {
+      "title": "Introduction",
+      "volume": "1",
+      "last_updated": "1669113476",
+      "groups": {
+        "Mutations": [
+          "https://cdn.imgchest.com/files/myd5clerr4b.jpg"
+        ]
+      }
+    },
+    "1.1": {
+      "title": "Transformations",
+      "volume": "1",
+      "last_updated": "1669113500",
+      "groups": {
+        "Mutations": [
+          "https://cdn.imgchest.com/files/3yrgconz94z.jpg",
+          "https://cdn.imgchest.com/files/j7mmc89r376.jpg",
+          "https://cdn.imgchest.com/files/k739cmx6j7q.jpg"
+        ]
+      }
+    },
+    "1.2": {
+      "title": "Cosmetic Alterations",
+      "volume": "1",
+      "last_updated": "1669113655",
+      "groups": {
+        "Mutations": [
+          "https://cdn.imgchest.com/files/w7w6co2vaye.jpg"
+        ]
+      }
+    },
+    "1.3": {
+      "title": "Mutations",
+      "volume": "1",
+      "last_updated": "1669113707",
+      "groups": {
+        "Mutations": [
+          "https://cdn.imgchest.com/files/wye3c32dz4b.jpg",
+          "https://cdn.imgchest.com/files/g4z9cxvwg72.jpg",
+          "https://cdn.imgchest.com/files/e4gdcrxpq4r.jpg",
+          "https://cdn.imgchest.com/files/my8xc8nkr4l.jpg"
+        ]
+      }
+    },
+    "1.4": {
+      "title": "Mutation Combos",
+      "volume": "1",
+      "last_updated": "1669113723",
+      "groups": {
+        "Mutations": [
+          "https://cdn.imgchest.com/files/345xcwv957w.jpg"
+        ]
+      }
+    },
+    "2.1": {
+      "title": "Powers",
+      "volume": "1",
+      "last_updated": "1669113789",
+      "groups": {
+        "Powers": [
+          "https://cdn.imgchest.com/files/84apco5324l.jpg",
+          "https://cdn.imgchest.com/files/k46aceqgl7z.jpg",
+          "https://cdn.imgchest.com/files/pyvdcownwyk.jpg"
+        ]
+      }
+    },
+    "3.1": {
+      "title": "Curses",
+      "volume": "1",
+      "last_updated": "1669113840",
+      "groups": {
+        "Curses": [
+          "https://cdn.imgchest.com/files/6yxkcozqb7w.jpg"
+        ]
+      }
+    },
+    "4.1": {
+      "title": "Deities",
+      "volume": "1",
+      "last_updated": "1669113860",
+      "groups": {
+        "Deities": [
+          "https://cdn.imgchest.com/files/b49zco2vayw.jpg"
+        ]
+      }
+    },
+    "5.1": {
+      "title": "Living Clothing",
+      "volume": "2",
+      "last_updated": "1669113887",
+      "groups": {
+        "Clothing": [
+          "https://cdn.imgchest.com/files/p7bwcok2g7n.jpg",
+          "https://cdn.imgchest.com/files/w7pjcoqkb7p.jpg",
+          "https://cdn.imgchest.com/files/d7ogcnbxqy9.jpg"
+        ]
+      }
+    },
+    "5.2": {
+      "title": "Integratable Equipment",
+      "volume": "2",
+      "last_updated": "1669113908",
+      "groups": {
+        "Clothing": [
+          "https://cdn.imgchest.com/files/j7kzc3axg7m.jpg"
+        ]
+      }
+    },
+    "5.3": {
+      "title": "Magic Tattoos",
+      "volume": "2",
+      "last_updated": "1669113936",
+      "groups": {
+        "Clothing": [
+          "https://cdn.imgchest.com/files/my2pcrk5z7j.jpg"
+        ]
+      }
+    },
+    "5.4": {
+      "title": "Items & Equipment",
+      "volume": "2",
+      "last_updated": "1669113955",
+      "groups": {
+        "Clothing": [
+          "https://cdn.imgchest.com/files/l7lxc2pxl7o.jpg",
+          "https://cdn.imgchest.com/files/84jdc9v694k.jpg",
+          "https://cdn.imgchest.com/files/pyq9cn3v642.jpg"
+        ]
+      }
+    },
+    "6.1": {
+      "title": "Setting",
+      "volume": "3",
+      "last_updated": "1669113996",
+      "groups": {
+        "Setting": [
+          "https://cdn.imgchest.com/files/j7mmc89n376.jpg",
+          "https://cdn.imgchest.com/files/k739cmxkj7q.jpg"
+        ]
+      }
+    },
+    "7.1": {
+      "title": "Factions",
+      "volume": "3",
+      "last_updated": "1669114020",
+      "groups": {
+        "Monsters & Creatures": [
+          "https://cdn.imgchest.com/files/w7w6co2qaye.jpg",
+          "https://cdn.imgchest.com/files/wye3c32gz4b.jpg"
+        ]
+      }
+    },
+    "7.2": {
+      "title": "Bestiary",
+      "volume": "3",
+      "last_updated": "1669114145",
+      "groups": {
+        "Monsters & Creatures": [
+          "https://cdn.imgchest.com/files/g4z9cxv9g72.jpg",
+          "https://cdn.imgchest.com/files/e4gdcrxmq4r.jpg",
+          "https://cdn.imgchest.com/files/my8xc8nqr4l.jpg",
+          "https://cdn.imgchest.com/files/345xcwv857w.jpg",
+          "https://cdn.imgchest.com/files/84apco5v24l.jpg",
+          "https://cdn.imgchest.com/files/k46aceq3l7z.jpg",
+          "https://cdn.imgchest.com/files/pyvdcowgwyk.jpg",
+          "https://cdn.imgchest.com/files/6yxkcozkb7w.jpg",
+          "https://cdn.imgchest.com/files/b49zco29ayw.jpg"
+        ]
+      }
+    },
+    "7.3": {
+      "title": "Parasites",
+      "volume": "3",
+      "last_updated": "1669114230",
+      "groups": {
+        "Monsters & Creatures": [
+          "https://cdn.imgchest.com/files/l4necv8no4m.jpg",
+          "https://cdn.imgchest.com/files/p7bwcokeg7n.jpg",
+          "https://cdn.imgchest.com/files/w7pjcoqdb7p.jpg"
+        ]
+      }
+    },
+    "8.1": {
+      "title": "Scenario",
+      "volume": "3",
+      "last_updated": "1669114266",
+      "groups": {
+        "Scenario": [
+          "https://cdn.imgchest.com/files/d7ogcnbwqy9.jpg"
+        ]
+      }
+    },
+    "9.1": {
+      "title": "Pit Stop",
+      "volume": "3",
+      "last_updated": "1669114308",
+      "groups": {
+        "Pit Stop": [
+          "https://cdn.imgchest.com/files/j7kzc3awg7m.jpg",
+          "https://cdn.imgchest.com/files/my2pcrkdz7j.jpg"
+        ]
+      }
+    }
+  }
+}
